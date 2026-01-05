@@ -2,7 +2,7 @@
 
 A beginner-to-pro portfolio project that demonstrates **industrial PLC-style control logic** with a safety mindset.
 
-## What it shows recruiters
+## 
 - Start/Stop motor latching logic
 - Emergency Stop (E‑Stop) override
 - Thermal overload trip
